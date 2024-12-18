@@ -14,7 +14,9 @@ body .main .bg-g{
     z-index: 2;
     
 } */
-
+.nav-bar{
+    display: flex;
+}
 .nav-bar .logo p{
     font-family: 'Lato', sans-serif;
     font-weight: 700;
@@ -26,6 +28,9 @@ body .main .bg-g{
     border-color: #ffb800;
     font-family: 'Lato', sans-serif;
 
+}
+.nav-bar .searchbar{
+    position: relative;
 }
 .nav-bar .searchbar .form-inline .btn{
     border-radius: 5px;
