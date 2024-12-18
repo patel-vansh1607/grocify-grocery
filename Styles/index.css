@@ -27,3 +27,12 @@ body .main .bg-g{
     font-family: 'Lato', sans-serif;
 
 }
+.nav-bar .searchbar .form-inline .btn{
+    border-radius: 5px;
+    border-color: #ffb800;
+    font-family: 'Lato', sans-serif;
+
+}
+.nav-bar .searchbar .form-inline .btn:hover{
+    background-color: #ffb800;
+}
