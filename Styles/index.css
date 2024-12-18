@@ -43,3 +43,11 @@ body .main .bg-g{
 .nav-bar .searchbar .form-inline .btn:hover{
     background-color: #ffb800;
 }
+ 
+
+.nav-icons ul{
+    display: flex;
+}
+.nav-icons ul li a {
+    text-decoration:none;
+}
