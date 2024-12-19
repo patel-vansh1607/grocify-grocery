@@ -82,3 +82,10 @@ img{
     top: -500px;
     left: 500px;
 }
+.points .p1 ,.p2, .p3, .p4{
+    width: 200px;
+    height: 60px;
+    background-color: #fff;
+    box-shadow: 0px 9.21897px 9.21897px rgba(0, 0, 0, 0.17);
+}
+
