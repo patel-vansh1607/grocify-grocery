@@ -60,6 +60,10 @@ body .main .bg-g{
     top: 160px;
    left: 50px;
 }
+.con2{
+    width: 100vw;
+    height: 800px;
+}
 img{
     width: 850px;
     height: 600px;
