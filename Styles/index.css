@@ -204,4 +204,22 @@ img{
     height: 50px;
     border-radius: 10px;
     background-color: #1e1a1a;
+    align-content: center;
+    justify-items: center;
+}
+.countdown .hrs{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #1e1a1a;
+    align-content: center;
+    justify-items: center;
+}
+.countdown .min{
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #1e1a1a;
+    align-content: center;
+    justify-items: center;
 }
