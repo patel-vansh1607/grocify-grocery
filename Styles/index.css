@@ -85,7 +85,7 @@ img{
 .points{
     float: right;
 }
-.points .p2, .p3, .p4{
+/* .points .p2, .p3, .p4{
     width: 290px;
     height: 90px;
     background-color: #fff;
@@ -96,10 +96,24 @@ img{
     justify-items: center;
     font-size: 20px;
 
-}
+} */
 .points .p1{
     position: relative;
     top: -500px;
+    left: -300px;
+    width: 290px;
+    height: 90px;
+    background-color: #fff;
+    box-shadow: 0px 9.21897px 9.21897px rgba(0, 0, 0, 0.17);
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    align-content: center;
+    justify-items: center;
+    font-size: 20px;
+}
+.points .p2{
+    position: relative;
+    top: -480px;
     left: -300px;
     width: 290px;
     height: 90px;
