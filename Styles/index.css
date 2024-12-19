@@ -164,3 +164,14 @@ img{
     left: -130px;
     top: 35px;
   }
+
+  .circle1{
+    width: 15px;
+    height: 15px;
+    background-color: #FFB800;
+    border-radius: 50%;
+    z-index: 20;
+    position: relative;
+    left: -130px;
+    top: 15px;
+  }
